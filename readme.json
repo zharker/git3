@@ -22,4 +22,12 @@
 	"productDate" : "2012-12-21",
 	"price" : 699
 }
+,
+{
+	"productType" : "Mobile",
+	"quantity" : 5000,
+	"productor" : "HTC",
+	"productDate" : "2012-12-11",
+	"price" : 3600
+}
 ]
