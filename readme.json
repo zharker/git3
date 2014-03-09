@@ -2,5 +2,6 @@
 	"product" : "PC",
 	"quantity" : 888,
 	"productor" : "acer",
-	"productDate" : "2009-12-22"
+	"productDate" : "2009-12-22",
+	"price" : 3211
 }
