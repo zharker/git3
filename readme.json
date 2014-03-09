@@ -1,6 +1,6 @@
 [
 {
-	"product" : "PC",
+	"productType" : "PC",
 	"quantity" : 888,
 	"productor" : "acer",
 	"productDate" : "2009-12-22",
@@ -8,9 +8,10 @@
 }
 ,
 {
-	"product" : "PC",
+	"productType" : "PC",
 	"quantity" : 888,
-	"productor" : "acer",
-	"productDate" : "2009-12-22"
+	"productor" : "sumsing",
+	"productDate" : "2009-12-21",
+	"price" : 3210
 }
 ]
