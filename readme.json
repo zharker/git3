@@ -46,4 +46,12 @@
 	"productDate" : "2012-11-12",
 	"price" :5430
 }
+,
+{
+	"productType" : "Tablet PC",
+	"quantity" : 45000,
+	"productor" : "LETV",
+	"productDate" : "2011-11-12",
+	"price" :3333
+}
 ]
