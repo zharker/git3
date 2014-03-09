@@ -30,4 +30,12 @@
 	"productDate" : "2012-12-11",
 	"price" : 3600
 }
+,
+{
+	"productType" : "Mobile",
+	"quantity" : 11000,
+	"productor" : "ZTE",
+	"productDate" : "2012-12-30",
+	"price" : 543
+}
 ]
