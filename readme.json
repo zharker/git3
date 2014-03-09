@@ -1,5 +1,6 @@
 {
 	"product" : "PC",
 	"quantity" : 888,
-	"productor" : "acer"
+	"productor" : "acer",
+	"productDate" : "2009-12-21"
 }
